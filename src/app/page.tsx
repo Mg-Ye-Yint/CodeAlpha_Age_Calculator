@@ -7,7 +7,7 @@ export default function Home() {
       className="bg-gray-300 flex flex-col items-center justify-between"
       style={{ height: "100vh" }}
     >
-      <div></div>
+      <p className="text-black font-bold text-2xl mt-2">Age Calculator</p>
       <Submit />
       <p className="text-black font-semibold mb-2">
         &copy; 2024 Ye Yint Thway - @CodeAlpha.
